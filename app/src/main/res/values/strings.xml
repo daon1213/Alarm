@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alarm-part3-03</string>
+    <string name="change_time">시간 재설정</string>
+    <string name="on_alarm">on_alarm</string>
+</resources>
